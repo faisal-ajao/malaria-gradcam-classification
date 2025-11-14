@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ### Run training + Grad-CAM visualization:
 
 ```bash
-jupyter notebook malaria_gradcam.ipynb
+jupyter notebook main.ipynb
 ```
 
 ---
@@ -60,6 +60,7 @@ malaria-gradcam-classification/
 │   └── example.png
 ├── main.ipynb      # Full notebook with training & CAM
 ├── README.md
+├── LICENSE
 └── requirements.txt
 ```
 
