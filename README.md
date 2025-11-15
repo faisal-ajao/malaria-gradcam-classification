@@ -11,7 +11,8 @@ It uses the public Kaggle dataset: *Cell Images for Detecting Malaria*.
 - Train a custom CNN to classify **Parasitized** vs **Uninfected** cells  
 - Data augmentation with torchvision  
 - GPU-accelerated training (Colab-friendly)  
-- Grad-CAM visualization to highlight regions used by the CNN   
+- Grad-CAM visualization to highlight regions used by the CNN
+- Trained in Google Colab   
 
 ---
 
